@@ -4,4 +4,3 @@ namespace: guestbook-qa
 
 resources:
 - ../../base/
-- configMap.yaml
